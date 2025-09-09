@@ -17,6 +17,6 @@
 [http://pstu.ru](http://pstu.ru "Политех")
 
 Вставить изображение 
-![img]((https://yandex.ru/images/touch/search?text=%D1%84%D0%BE%D1%82%D0%BA%D0%B8&img_url=https%3A%2F%2Fwallpaper.forfun.com%2Ffetch%2Fb4%2Fb40820104d4c59ecccf3f4b5420f7721.jpeg&rpt=simage) "текст пользователя")
+![IMG](![17574095915573555861789410801787](https://github.com/user-attachments/assets/7eb1ade3-7738-4e55-9f24-5549bf4477c5))
 
 
